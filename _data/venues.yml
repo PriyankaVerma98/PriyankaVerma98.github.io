@@ -1,9 +1,18 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"MobileHCI":
+  url: https://dl.acm.org/conference/mobilehci
+  color: "#00838f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"COMPASS":
+  url: https://dl.acm.org/conference/compass
+  color: "#1565c0"
 
-"Vision":
-  color: "#009f36"
+"CSCW":
+  url: https://dl.acm.org/conference/cscw
+  color: "#6a1b9a"
+
+"CHI":
+  url: https://dl.acm.org/conference/chi
+  color: "#c62828"
+
+"Upper Bound":
+  color: "#2e7d32"
