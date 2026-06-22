@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: peer-reviewed and workshop publications in reversed chronological order.
+title: Publications
+description: list of peer-reviewed, as well as lightly-reviewed articles.  
 nav: true
 nav_order: 2
 ---

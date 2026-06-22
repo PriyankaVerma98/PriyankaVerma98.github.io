@@ -1,24 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Doctoral Candidate at the <a href='https://ischool.utoronto.ca/'>Faculty of Information</a>, University of Toronto
+subtitle: Tech Researcher, Innovator, Educator
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: priyanka_bw.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Doctoral Candidate</p>
-    <p>Faculty of Information</p>
-    <p>University of Toronto</p>
-    <p>Toronto, Canada</p>
+  # more_info: >
+    # <p>Doctoral Candidate</p>
+    # <p>Faculty of Information</p>
+    # <p>University of Toronto</p>
+    # <p>Toronto, Canada</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -28,25 +28,35 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my digital footprint!
+<!-- key words: end to end. real workflows . contextual evaluations- democratic  -->
 
-I'm a fourth-year doctoral candidate at the [University of Toronto](https://www.utoronto.ca/), where I'm advised by [Dr. Samar Sabie](https://sabie.ischool.utoronto.ca/). My research program entails investigating, designing, and developing data tools and algorithmic systems to support financial practices of underserved communities like cooperatives and towards financial inclusion. I am currently conducting my research in partnership with a cooperative housing organization in Toronto.
+Hi! I'm a fourth-year PhD candidate at the [University of Toronto](https://www.utoronto.ca/) and a fellow at [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/). I'm fortunate to work with [Dr. Samar Sabie](https://sabie.ischool.utoronto.ca/) (advisor), [Dr. Nisarg Shah](https://www.cs.toronto.edu/~nisarg/people.html), and [Dr. Vera Khovanskaya](https://verakhovanskaya.github.io/) as my committee members.  
 
-Previously, I was a software developer at Oracle Cloud Infrastructure (OCI) Observability Team in India. I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/) — one of the six Institutes of Eminence in India — with double majors in Economics and Computer Science in 2021.
+My dissertation research combines algorithmic, participatory, qualitative, and design research approaches for investigating technology interventions in organizational and community-based contexts. Specifically, I have been developing an algorithmic system for participatory budgeting or fair rent division at a cooperative housing organization. My goal is to make algorithmic systems to be more fair, aligned, collaborative, as well as design tech for underserved communities like cooperatives.  
 
-I am passionate about applying my work experience and interdisciplinary knowledge for social impact. For instance, I developed a chat interface to democratize information flows for low-literate communities in rural India as part of my Master's thesis under the mentorship of [Dr. Bill Thies](https://billthies.net/) (previously Microsoft Research).
+I am specialising in the ethics of AI, algorithmic fairness, UX and end-to-end systems design by leveraging multidisciplinary insights from computer science, economics, and human-computer interaction. More fundamentally, I uncover how to design algorithmic systems that elicit and aggregate subjective individual preferences to make collective decisions (social choice theory), align and integrate AI into real workflows and data practices of organizations (human-centered design), and conduct  AI evaluations situated in socio-technical contexts (responsible AI).
 
-## Interests
 
+<!-- deploy algorithms in research wicked questions: eliciting and aggregating diverse subjective preferences of agents algorithmically, evaluating algorithms when there is a lack of objective ground truth, identifying limitations of algorithmic systems and mathematical models in the real-world, and envisioning more human-centered algorithmic alternatives.  -->
+
+Previously, I was a software developer at Oracle Cloud Infrastructure (OCI) Observability Team in India. I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/) — one of the six Institutes of Eminence in India — with double majors in Economics and Computer Science in 2021. For my Master's thesis, I worked with [Dr. Bill Thies](https://billthies.net/) (previously Microsoft Research), and I developed a chat interface to democratize information flows for low-literate communities in rural India.
+
+<!-- I am passionate about applying my work experience and interdisciplinary knowledge for social impact. For instance, I developed a chat interface to democratize information flows for low-literate communities in rural India as part of my Master's thesis under the mentorship of [Dr. Bill Thies](https://billthies.net/) (previously Microsoft Research). -->
+
+<!-- ## Interests
+
+- Responsible AI
 - Financial technologies
 - Cooperatives
-- Data and information practices
+- Data and information practices -->
+
+<!-- ## Skills
+
 - Participatory design & co-design
-
-## Skills
-
-- Software programming
-- Full-stack development
+- Full-stack software development
+- Literature Reviews
+- Ethnographic studies
 - Bayesian inference
 - Time series analysis
 - Mixed-methods analysis
+- Survey Design -->

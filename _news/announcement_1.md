@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 12 June 2026
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Led & co-organised a [workshop](https://dl.acm.org/doi/10.1145/3802974.3808009) at ACM DIS 2026 :sparkles: :smile:
