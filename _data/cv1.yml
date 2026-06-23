@@ -1,0 +1,123 @@
+cv:
+  name: Priyanka Verma
+  label: Doctoral Candidate
+  email: priyanka.verma@mail.utoronto.ca
+  location: Toronto, Canada
+  image: ""
+  summary: >
+    Fourth-year doctoral candidate at the Faculty of Information, University of Toronto, advised by
+    Dr. Samar Sabie. Research focuses on data tools and algorithmic systems for financial inclusion
+    and cooperative communities.
+
+  social_networks:
+    - network: LinkedIn
+      username: priyanka-verma-01
+    - network: GitHub
+      username: PriyankaVerma98
+    - network: X
+      username: Priyank36325503
+
+  sections:
+    Education:
+      - institution: University of Toronto
+        location: Toronto, Canada
+        url: https://ischool.utoronto.ca/
+        area: Information Studies
+        studyType: PhD
+        start_date: 2022
+        end_date: Present
+        highlights:
+          - Advised by Dr. Samar Sabie
+          - Research partnership with a cooperative housing organization in Toronto
+
+      - institution: Birla Institute of Technology and Science (BITS), Pilani
+        location: Pilani, India
+        url: https://www.bits-pilani.ac.in/
+        area: Economics and Computer Science
+        studyType: M.Sc. (Hons.) Economics & B.E. (Hons.) Computer Science
+        start_date: 2017
+        end_date: 2021
+        highlights:
+          - Double majors in Economics and Computer Science
+
+    Experience:
+      - company: Oracle Cloud Infrastructure (OCI) Observability Team
+        position: Software Developer
+        location: India
+        start_date: 2021
+        end_date: 2022
+        summary: >
+          Software developer on the OCI Observability Team, working on large-scale cloud computing
+          projects with clients worldwide.
+
+    Skills:
+      - name: Technical
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Software programming, Full-stack development, Bayesian inference, Time series analysis"
+
+      - name: Research
+        level: ""
+        icon: fa-solid fa-flask
+        keywords: "Mixed-methods analysis, Participatory design, HCI, Survey design"
+
+    Interests:
+      - name: Research areas
+        icon: fa-solid fa-tag
+        keywords: "Financial technologies, Cooperatives, Data and information practices, Participatory design & co-design"
+
+    Publications:
+      - title: Exploring Privacy Aspects of Smartphone Notifications
+        authors:
+          - Priyanka Verma
+          - Sameer Patil
+        publisher: MobileHCI '21
+        releaseDate: 2021-09-01
+        url: https://dl.acm.org/doi/10.1145/3447526.3472065
+
+      - title: "Demo: A WhatsApp Bot for Citizen Journalism in Rural India"
+        authors:
+          - Priyanka Verma
+          - Ananya Saxena
+          - Alok Sharma
+          - Bill Thies
+          - Devansh Mehta
+        publisher: COMPASS '21
+        releaseDate: 2021-06-01
+        url: https://dl.acm.org/doi/10.1145/3460110.3463626
+
+      - title: "Beyond Convenience: Exploring the Complexities of Financial Technology Adoption among Immigrants"
+        authors:
+          - Priyanka Verma
+          - Taneea S Agrawal
+        publisher: Pluralism@CSCW Workshop, CSCW '23
+        releaseDate: 2023-10-01
+
+      - title: Examining the Impact of COVID-19 on US Child Welfare Systems
+        authors:
+          - Priyanka Verma
+          - Erina Moon
+        publisher: Upper Bound Conference 2023, AMII
+        releaseDate: 2023-05-01
+
+    Projects:
+      - name: A WhatsApp Chat Bot for Citizen Journalism in Rural India
+        summary: >
+          Master's thesis project developing a WhatsApp chatbot for CGNet Swara to enable
+          low-literate rural communities in Chhattisgarh, India to submit and browse citizen
+          journalism stories via audio, image, and video.
+        highlights:
+          - Crowdsourced 500+ video and audio reports in 9 weeks
+          - Published at ACM COMPASS '21
+        start_date: 2021-02-01
+        end_date: 2021-06-01
+
+      - name: Exploring Privacy Aspects of Smartphone Notifications
+        summary: >
+          Bachelor's thesis studying privacy risks of smartphone notifications through an HCI
+          survey of 206 participants, with design recommendations for privacy-sensitive delivery.
+        highlights:
+          - Global Talent Attraction Program scholarship recipient
+          - Published at MobileHCI '21
+        start_date: 2020-08-01
+        end_date: 2021-10-01

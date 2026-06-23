@@ -1,77 +1,110 @@
 cv:
-  name: Priyanka Verma
-  label: Doctoral Candidate
-  email: priyanka.verma@mail.utoronto.ca
-  location: Toronto, Canada
-  image: ""
-  summary: >
-    Fourth-year doctoral candidate at the Faculty of Information, University of Toronto, advised by
-    Dr. Samar Sabie. Research focuses on data tools and algorithmic systems for financial inclusion
-    and cooperative communities.
+  # name: Priyanka Verma
+  # label: PhD Candidate | Human Centered Designer
+  # email: vpriyanka0492@gmail.com
+  # location: Toronto, Canada
+  # image: ""
+  # summary: >
+  #   Human Centered Designer (HCD) with 5+ years of experience researching, designing, and deploying
+  #   end-to-end technical systems in high-stakes domains, including housing and financial decisions. Design research has been featured in both academic
+  #   and public-facing international platforms, translated to digital platforms used by thousands of users,
+  #   and presented as actionable recommendations to senior leaders at banks and housing cooperatives.
 
   social_networks:
     - network: LinkedIn
       username: priyanka-verma-01
     - network: GitHub
       username: PriyankaVerma98
-    - network: X
-      username: Priyank36325503
-
+    
   sections:
     Education:
       - institution: University of Toronto
         location: Toronto, Canada
         url: https://ischool.utoronto.ca/
-        area: Information Studies
-        studyType: PhD
+        # area: Human Computer Interaction
+        studyType: PhD Candidate
         start_date: 2022
-        end_date: Present
+        end_date: 2026
         highlights:
-          - Advised by Dr. Samar Sabie
-          - Research partnership with a cooperative housing organization in Toronto
+          - Technical AI Safety Fellow at University of Toronto, held at Trajectory Labs (Spring 2026)
 
       - institution: Birla Institute of Technology and Science (BITS), Pilani
         location: Pilani, India
         url: https://www.bits-pilani.ac.in/
-        area: Economics and Computer Science
+        # area: Economics and Computer Science
         studyType: M.Sc. (Hons.) Economics & B.E. (Hons.) Computer Science
-        start_date: 2017
+        start_date: 2016
         end_date: 2021
         highlights:
-          - Double majors in Economics and Computer Science
+          - 1 of 10 fellows at Global Talent Attraction Program (GTAP), Indiana University Bloomington, USA 2020
+          - Special Auditing Student at Hiroshima University, Japan under Sakura Science Exchange Program 2019
 
-    Experience:
-      - company: Oracle Cloud Infrastructure (OCI) Observability Team
-        position: Software Developer
-        location: India
-        start_date: 2021
-        end_date: 2022
-        summary: >
-          Software developer on the OCI Observability Team, working on large-scale cloud computing
-          projects with clients worldwide.
-
-    Skills:
-      - name: Technical
-        level: ""
-        icon: fa-solid fa-code
-        keywords: "Software programming, Full-stack development, Bayesian inference, Time series analysis"
-
-      - name: Research
-        level: ""
-        icon: fa-solid fa-flask
-        keywords: "Mixed-methods analysis, Participatory design, HCI, Survey design"
-
-    Interests:
-      - name: Research areas
-        icon: fa-solid fa-tag
-        keywords: "Financial technologies, Cooperatives, Data and information practices, Participatory design & co-design"
+    # Interests:
+    #   - name: Research areas
+    #     icon: fa-solid fa-tag
+    #     keywords: "Financial technologies, Cooperatives, Data and information practices, Participatory design & co-design, AI fairness, Housing"
 
     Publications:
+      - title: "Beyond Interaction toward Cooperation and Commoning"
+        authors:
+          - Priyanka Verma
+          - Aarjav Chauhan
+          - Jared Lee Katzman
+          - Hongjin Lin
+          - Dawn Walker
+          - Anton Fedosov
+          - Nathan Schneider
+          - Maurizio Teli
+          - Samar Sabie
+        publisher: ACM Designing Interactive Systems Conference (DIS '26) Companion
+        releaseDate: 2026-06-13
+        url: https://dl.acm.org/doi/10.1145/3802974.3808009
+
+      - title: "When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Rent Division Algorithms"
+        authors:
+          - Priyanka Verma
+          - Balagopal Unnikrishnan
+        publisher: NeurIPS 2025 Workshop on Algorithmic Collective Action
+        releaseDate: 2025-12-01
+        url: https://arxiv.org/abs/2511.14722
+
+      - title: "17 Years of Fintech for Financial Inclusion: A Systematic Review and Critical Value Analysis"
+        authors:
+          - Priyanka Verma
+          - Christoph Becker
+          - Samar Sabie
+        publisher: ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
+        releaseDate: 2025-10-01
+        url: https://dl.acm.org/doi/10.1145/3757539
+
+      - title: "Maintenance, Cooperation, and Sustainability: Unpacking the Data Practices of Housing Cooperatives"
+        authors:
+          - Priyanka Verma
+          - Mohammad R. Rifat
+          - Samar Sabie
+        publisher: ACM Conference on Human Factors in Computing Systems (CHI)
+        releaseDate: 2025-04-01
+        url: https://dl.acm.org/doi/10.1145/3706598.3713121
+
+      - title: "Designing Social and Collaborative Fintech: Insights from a Housing Cooperative"
+        authors:
+          - Priyanka Verma
+        publisher: CHI 2025 Workshop
+        releaseDate: 2025-04-01
+        url: https://chi2025-money.github.io/assets/files/7-Verma.pdf
+
+      - title: "Digital Transformation and Financial Inclusion"
+        authors:
+          - Priyanka Verma
+        publisher: Digital Futures Symposium, DeGroote School of Business, McMaster University
+        releaseDate: 2025-01-01
+        url: https://mdtrc.mcmaster.ca/app/uploads/2025/07/Graduate-Research-Showcase-Proceedings-of-Extended-Abstracts.pdf
+
       - title: Exploring Privacy Aspects of Smartphone Notifications
         authors:
           - Priyanka Verma
           - Sameer Patil
-        publisher: MobileHCI '21
+        publisher: ACM International Conference on Mobile Human-Computer Interaction (MobileHCI)
         releaseDate: 2021-09-01
         url: https://dl.acm.org/doi/10.1145/3447526.3472065
 
@@ -82,42 +115,138 @@ cv:
           - Alok Sharma
           - Bill Thies
           - Devansh Mehta
-        publisher: COMPASS '21
+        publisher: ACM Conference on Computing and Sustainable Societies (COMPASS)
         releaseDate: 2021-06-01
-        url: https://dl.acm.org/doi/10.1145/3460110.3463626
+        url: https://dl.acm.org/doi/10.1145/3460112.3471981
+    
+    Experience:
+    - company: University of Toronto
+      position: Course Instructor
+      location: Mississauga, Ontario
+      start_date: 2025-05-01
+      end_date: 2025-08-01
+      highlights:
+        - Taught design methods course 'Understanding Users' to senior undergraduate students.
+        - Conceptualized new modules and assignments to critically analyze the role of AI in UX research and practice.
+        - Organized a guest lecture from a senior design strategist at Wells Fargo.
 
-      - title: "Beyond Convenience: Exploring the Complexities of Financial Technology Adoption among Immigrants"
-        authors:
-          - Priyanka Verma
-          - Taneea S Agrawal
-        publisher: Pluralism@CSCW Workshop, CSCW '23
-        releaseDate: 2023-10-01
+    - company: Microsoft Research
+      position: Lead Experience Designer & Developer
+      location: Remote
+      start_date: 2021-02-01
+      end_date: 2021-06-01
+      highlights:
+        - Developed a WhatsApp-based chat platform for low-literate rural communities for citizen journalism.
+        - Iteratively designed interaction flows balancing user needs, resource constraints, and fieldworkers' workflows.
+        - Full-stack development involving legacy server, website, content moderation interface, APIs, and database.
+        - Implemented custom features to submit, share, and filter audio-, video-, and image-based journalism posts.
+        - Successful adoption with 1000+ reports from users; continued usage at partner NGO.
 
-      - title: Examining the Impact of COVID-19 on US Child Welfare Systems
-        authors:
-          - Priyanka Verma
-          - Erina Moon
-        publisher: Upper Bound Conference 2023, AMII
-        releaseDate: 2023-05-01
+    - company: Indiana University Bloomington Indiana, USA
+      position: HCD Researcher
+      location: Remote 
+      start_date: 2020-08-01
+      end_date: 2021-01-01
+      highlights: 
+        - Surveyed 200+ participants online to investigate privacy aspects of smartphone notifications.
+        - Conducted mixed-method analysis (non-parametric statistical tests, thematic analysis, visualizations).
+        - Published paper and recommended design features in smartphone UIs to prevent privacy violations.
 
-    Projects:
-      - name: A WhatsApp Chat Bot for Citizen Journalism in Rural India
-        summary: >
-          Master's thesis project developing a WhatsApp chatbot for CGNet Swara to enable
-          low-literate rural communities in Chhattisgarh, India to submit and browse citizen
-          journalism stories via audio, image, and video.
-        highlights:
-          - Crowdsourced 500+ video and audio reports in 9 weeks
-          - Published at ACM COMPASS '21
-        start_date: 2021-02-01
-        end_date: 2021-06-01
+    - company: Oracle Cloud Infrastructure (OCI)
+      position: Software Developer
+      location: Bangalore, India
+      start_date: 2021-07-01
+      end_date: 2022-08-01
+      highlights: 
+        - Designed and deployed solutions for the flagship organization-wide logging and monitoring agent to enhance observability and security in cloud infrastructure.
+        - Developed open-source logging output plugin to support Debian OS.
 
-      - name: Exploring Privacy Aspects of Smartphone Notifications
-        summary: >
-          Bachelor's thesis studying privacy risks of smartphone notifications through an HCI
-          survey of 206 participants, with design recommendations for privacy-sensitive delivery.
-        highlights:
-          - Global Talent Attraction Program scholarship recipient
-          - Published at MobileHCI '21
-        start_date: 2020-08-01
-        end_date: 2021-10-01
+    Awards:
+      - date: "2025-26"
+        summary: Schwartz Reisman Institute for Technology and Society (SRI) Graduate Fellow         
+
+      - date: "2025"
+        summary: Inclusive Excellence Research Grant, Faculty of Information
+        
+      - date: "2024"
+        summary: Sustainable Development Goals@UofT Student Award
+
+      - date: "2023-2024"
+        summary: School of Cities Graduate Research Fellowship
+        
+
+      - date: "2024"
+        summary: Munk School of Public Policy, Graduate Student Awards
+
+      - date: "2023"
+        summary: Talent Bursary, Alberta Machine Intelligence Institute (AMII) to present at Upper Bound Conference.
+
+    Skills:
+      - name: ML / AI
+        # level: ""
+        icon: fa-solid fa-robot
+        keywords: "Cursor, MCP servers, Prompt Engineering, Responsible AI, Data Mining, ML, TensorFlow, Keras"
+
+      - name: Programming
+        # level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, R, C++, C, PHP, Ruby, HTML, CSS, JavaScript, Unix, Bash"
+
+      - name: Tools
+        # level: ""
+        icon: fa-solid fa-wrench
+        keywords: "MySQL, Git, VSCode, MATLAB, Docker, Qualtrics, Node.js/Flask"
+
+      - name: Packages
+        # level: ""
+        icon: fa-solid fa-box
+        keywords: "Pandas, Gensim, NumPy, scikit-learn, OpenCV, SciPy, Matplotlib"
+
+      - name: Research
+        # level: ""
+        icon: fa-solid fa-flask
+        keywords: "Mixed-methods analysis, Participatory design, HCI, Ethnography, Co-design, Survey design, Inferential statistics"
+
+    # Projects:
+    #   - name: Fairness in Credit Scoring Models
+    #     summary: >
+    #       Quantitative and qualitative evaluation of credit scoring models for fairness and disparities,
+    #       supervised by Dr. Shion Guha at the University of Toronto.
+    #     start_date: 2024-01-01
+    #     end_date: 2024-12-01
+
+    #   - name: Bayesian Inference Analysis of Credit Card Default Payment
+    #     summary: >
+    #       Applied Bayesian statistics frameworks in R to investigate real customers' credit card defaulting behavior,
+    #       supervised by Dr. Monica Alexander, Statistical Sciences, University of Toronto.
+    #     start_date: 2023-01-01
+    #     end_date: 2023-12-01
+
+      # - name: A WhatsApp Chat Bot for Citizen Journalism in Rural India
+      #   summary: >
+      #     Developed a WhatsApp chatbot for CGNet Swara to enable low-literate rural communities in Chhattisgarh,
+      #     India to submit and browse citizen journalism stories via audio, image, and video.
+      #   highlights:
+      #     - Crowdsourced 1000+ reports from users; continued usage at partner NGO
+      #     - Published at ACM COMPASS '21
+      #   start_date: 2021-02-01
+      #   end_date: 2021-06-01
+
+      # - name: Exploring Privacy Aspects of Smartphone Notifications
+      #   summary: >
+      #     Studied privacy risks of smartphone notifications through an HCI survey of 200+ participants,
+      #     with design recommendations for privacy-sensitive delivery.
+      #   highlights:
+      #     - Global Talent Attraction Program scholarship recipient
+      #     - Published at MobileHCI '21
+      #   start_date: 2020-08-01
+      #   end_date: 2021-10-01
+
+    Teaching Assistant:
+      # - bullet: "**Data Modeling and Database Design** — Spring 2025"
+      - bullet: "**Information Systems, Service and Design** — Spring 2024"
+      - bullet: "**Fundamentals of User Experience** — Fall 2023"
+      - bullet: "**Introduction to Software Engineering** — Spring 2023"
+      - bullet: "**Experimental Design for Data Science** — Spring 2023"
+      - bullet: "**Programming for Data Science** — Fall 2022"
+
