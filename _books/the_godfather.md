@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: The Godfather
+title: Design Justice
 author: Mario Puzo
 cover: assets/img/book_covers/the_godfather.jpg
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
