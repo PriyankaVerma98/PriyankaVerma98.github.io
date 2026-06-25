@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Tech Researcher, Innovator, Educator
+# subtitle: "<strong>HCI+AI | Researcher, Innovator, Educator</strong>"
+subtitle: '<span style="font-weight: 300; font-size: 1.5rem;">HCI+AI | Researcher, Innovator, Educator</span>'
 
 profile:
   align: right
@@ -30,9 +31,19 @@ latest_posts:
 
 Hi! I'm a fourth-year PhD candidate at the [University of Toronto](https://www.utoronto.ca/) and a fellow at [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/). I'm fortunate to work with [Dr. Samar Sabie](https://sabie.ischool.utoronto.ca/) (advisor), [Dr. Nisarg Shah](https://www.cs.toronto.edu/~nisarg/people.html), and [Dr. Vera Khovanskaya](https://verakhovanskaya.github.io/) as my committee members.
 
-I am specialising in the responsible AI, algorithmic fairness, and end-to-end systems design by leveraging multidisciplinary insights from computer science, economics, and human-computer interaction. I uncover how to design algorithmic systems that elicit and aggregate (subjective) individual preferences to make collective decisions (**computational social choice**); align and evaluate AI based on contextual workflows and data practices (**human-AI interaction**); and employ participatory approaches for stakeholders to build algorithmic models in community-based organziations (**community-collaborative approaches**).
+I am specialising in responsible AI, algorithmic fairness, UX design, and systems thinking by leveraging multidisciplinary insights from computer science, economics, and human-computer interaction. I have experience conducting ethnographic studies, surveys, literature review, descriptive and inferential statistics, full-stack software development, participatory design workshops with diverse stakeholders, as well as investigating algorithmic fairness.
 
-Specifically, I have been developing and evaluating an algorithmic system for participatory budgeting or fair rent division at a cooperative housing organization. My goal is to make algorithmic systems to be more fair, inclusive, democratic, as well as design tech for mission-driven organizations like cooperatives. I combine algorithmic, participatory, qualitative, and design research approaches. I have experience conducting ethnographic studies, surveys, literature review, descriptive and inferential statistics, full-stack software development, participatory design workshops with diverse stakeholders, as well as investigating algorithmic fairness.
+In my dissertation research, I design algorithmic systems that elicit and aggregate (subjective) individual preferences to make collective decisions (**computational social choice**); identify and draw upon contextual insights in mission-driven organizations about workflows, governance and data practices (**community-collaborative approaches**); and employ participatory approaches with stakeholders to align and evaluate AI (**human-AI interaction**).
+
+<div style="clear: both;">
+  <div class="row justify-content-sm-center mt-4 mb-4">
+    <div class="col-sm-10 col-md-8">
+      {% include figure.liquid path="assets/img/about_diagram.svg" class="img-fluid" alt="Research framework linking computational social choice, organizational governance, and human-AI interaction toward fair and responsible AI" %}
+    </div>
+  </div>
+</div>
+
+Specifically, I have been designing and evaluating an algorithmic system for participatory budgeting or fair rent division at a cooperative housing organization. Cooperatives form a useful case study due to their focus on inclusion, equity, and social welfare. My goal is to make algorithmic systems more fair, inclusive, democratic, as well as support underserved community-based organizations like cooperatives through technology.
 
 <!-- deploy algorithms in research wicked questions: eliciting and aggregating diverse subjective preferences of agents algorithmically, evaluating algorithms when there is a lack of objective ground truth, identifying limitations of algorithmic systems and mathematical models in the real-world, and envisioning more human-centered algorithmic alternatives. for investigating technology interventions in organizational and community-based contexts.  -->
 
