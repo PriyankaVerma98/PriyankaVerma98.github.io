@@ -3,7 +3,7 @@ sections:
     items:
       - title: ACM Open Library Showcase
         year: "2025"
-        description: My research was selected and has been [featured as a blog post](https://www.growkudos.com/publications/10.1145%25252F3757539/reader) in the ACM Kudos showcase—world's largest open library—for impact beyond academia. 
+        description: My research was selected and has been [featured as a blog post](https://www.growkudos.com/publications/10.1145%25252F3757539/reader) in the ACM Kudos showcase—world's largest open library—for impact beyond academia.
         image: # assets/img/impact/acm-showcase.jpg
 
       - title: AI Safety Infographic
@@ -11,13 +11,11 @@ sections:
         description: Translated AI safety research into an infographic for public dissemination, reaching 10k+ users on LinkedIn.
         image: # assets/img/impact/ai-safety-infographic.jpg
 
-      
-
   - title: Industry engagement
     items:
       - title: Invited Talk at Equitable Bank
         year: "2025"
-        description: '[Presented fintech design research](https://www.linkedin.com/posts/priyanka-verma19_fintech-financialinclusion-designresearch-ugcPost-7397753121298628608-ZpPe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWG2gIBsxFX1P1RbVhy7Ro06yONAGHulDY) to senior leaders, product designers, and strategists at Equitable (EQ) Bank.'
+        description: "[Presented fintech design research](https://www.linkedin.com/posts/priyanka-verma19_fintech-financialinclusion-designresearch-ugcPost-7397753121298628608-ZpPe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWG2gIBsxFX1P1RbVhy7Ro06yONAGHulDY) to senior leaders, product designers, and strategists at Equitable (EQ) Bank."
         image: # assets/img/impact/equitable-bank.jpg
 
       - title: Responsible AI in the Workplace
@@ -29,7 +27,7 @@ sections:
     items:
       - title: ACM DIS '26 Workshop — Cooperatives, Commons & Technology Design
         year: "2026"
-        description: '[Led a workshop](https://www.linkedin.com/posts/priyanka-verma19_dis2026-hci-designresearch-ugcPost-7472493769322291200-2iLn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWG2gIBsxFX1P1RbVhy7Ro06yONAGHulDY) at ACM DIS 2026 in Singapore on how cooperatives and commons—such as Stocksy, Library Genesis, and Amul—can inspire technology design rooted in care, pluralism, and more humane futures.
+        description: "[Led a workshop](https://www.linkedin.com/posts/priyanka-verma19_dis2026-hci-designresearch-ugcPost-7472493769322291200-2iLn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWG2gIBsxFX1P1RbVhy7Ro06yONAGHulDY) at ACM DIS 2026 in Singapore on how cooperatives and commons—such as Stocksy, Library Genesis, and Amul—can inspire technology design rooted in care, pluralism, and more humane futures."
         image: # assets/img/impact/dis2026-workshop.jpg
 
       - title: Participatory Budgeting Research Agenda

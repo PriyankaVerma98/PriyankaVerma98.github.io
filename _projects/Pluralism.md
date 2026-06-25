@@ -1,20 +1,15 @@
-      - title: "Beyond Convenience: Exploring the Complexities of Financial Technology Adoption among Immigrants"
-        authors:
-          - Priyanka Verma
-          - Taneea S Agrawal
-        publisher: Pluralism@CSCW Workshop, CSCW '23
-        releaseDate: 2023-10-01
+---
+layout: page
+title: Beyond Convenience — Financial Technology Adoption among Immigrants
+description: CSCW '23 workshop position paper examining the complexities of financial technology adoption among immigrant communities.
+importance: 3
+category: course
+---
 
+**2023** | Financial Technology · Immigrant Communities · CSCW Workshop
 
+Position paper co-authored with [Taneea S Agrawal](https://www.linkedin.com/in/taneea-agrawal/) for the [Pluralism@CSCW Workshop](https://pluralism-cscw.github.io/) at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '23).
 
-        @inproceedings{verma2023fintech,
-  abbr        = {CSCW'23 Workshop},
-  bibtex_show = {true},
-  title       = {Beyond Convenience: Exploring the Complexities of Financial Technology Adoption among Immigrants},
-  author      = {Verma, Priyanka and Agrawal, Taneea S},
-  booktitle   = {Pluralism@CSCW Workshop at the ACM Conference on Computer-Supported Cooperative Work and Social Computing},
-  year        = {2023},
-  publisher   = acm,
-  abstract    = {Position paper examining the complexities of financial technology adoption among immigrant communities.},
-  selected    = {false},
-}
+Examined the complexities of financial technology adoption among immigrant communities, moving beyond convenience-focused narratives to surface structural and contextual barriers.
+
+**Links:** [Paper](https://pluralism-cscw.github.io/papers/verma-agrawal.pdf)

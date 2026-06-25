@@ -17,6 +17,6 @@ Analysed over 12,566 casenotes from a US Child Welfare (CW) Agency to investigat
 - Conducted topic modelling, sentiment analysis, and open coding on CW Agency casenotes
 - Applied NLP techniques to uncover patterns in narrative casework data during the pandemic
 
-**Outcome:** Poster *Examining the Impact of COVID-19 on US Child Welfare Systems* presented at [Upper Bound Conference 2023](https://upperbound.ai/), Alberta Machine Intelligence Institute (AMII), supported by an AMII Talent Bursary.
+**Outcome:** Poster _Examining the Impact of COVID-19 on US Child Welfare Systems_ presented at [Upper Bound Conference 2023](https://upperbound.ai/), Alberta Machine Intelligence Institute (AMII), supported by an AMII Talent Bursary.
 
 **Links:** [Documentation](https://drive.google.com/file/d/1GvB0q4K-jOp9iQtUsIxwCIB5uQVELDZE/view) · [Poster](https://docs.google.com/presentation/d/1DvqP_R50_0w6sxuugW6D8NDhIiHFJ66GgBBJEgvd5fk/edit?usp=sharing)

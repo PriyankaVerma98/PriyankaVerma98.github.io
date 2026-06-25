@@ -11,7 +11,7 @@ related_publications: verma2021privacy
 
 1 of 10 selected for the Global Talent Attraction Program with financial scholarship to pursue research under the mentorship of [Prof. Sameer Patil](https://sameerpatil.org/).
 
-Presented novel scientific contributions demonstrating user privacy risks caused by smartphone notifications through a study titled *Exploring Privacy Aspects of Smartphone Notifications*.
+Presented novel scientific contributions demonstrating user privacy risks caused by smartphone notifications through a study titled _Exploring Privacy Aspects of Smartphone Notifications_.
 
 **Findings**
 

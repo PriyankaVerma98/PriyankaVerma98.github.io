@@ -6,7 +6,7 @@ importance: 5
 category: course
 ---
 
-**2024** | Algorithmic Fairness · Machine Learning · Credit Scoring 
+**2024** | Algorithmic Fairness · Machine Learning · Credit Scoring
 
 Research project for course `Algorithmic Fairness, Accountability, Transparency, and Ethics (FATE) by [Dr. Shion Guha](https://shionguha.ca/) (Faculty of Information, University of Toronto).
 

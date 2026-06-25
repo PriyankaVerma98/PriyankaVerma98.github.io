@@ -15,7 +15,7 @@ cv:
       username: priyanka-verma-01
     - network: GitHub
       username: PriyankaVerma98
-    
+
   sections:
     Education:
       - institution: University of Toronto
@@ -118,62 +118,61 @@ cv:
         publisher: ACM Conference on Computing and Sustainable Societies (COMPASS)
         releaseDate: 2021-06-01
         url: https://dl.acm.org/doi/10.1145/3460112.3471981
-    
+
     Experience:
-    - company: University of Toronto
-      position: Course Instructor
-      location: Mississauga, Ontario
-      start_date: 2025-05-01
-      end_date: 2025-08-01
-      highlights:
-        - Taught design methods course 'Understanding Users' to senior undergraduate students.
-        - Conceptualized new modules and assignments to critically analyze the role of AI in UX research and practice.
-        - Organized a guest lecture from a senior design strategist at Wells Fargo.
+      - company: University of Toronto
+        position: Course Instructor
+        location: Mississauga, Ontario
+        start_date: 2025-05-01
+        end_date: 2025-08-01
+        highlights:
+          - Taught design methods course 'Understanding Users' to senior undergraduate students.
+          - Conceptualized new modules and assignments to critically analyze the role of AI in UX research and practice.
+          - Organized a guest lecture from a senior design strategist at Wells Fargo.
 
-    - company: Microsoft Research
-      position: Lead Experience Designer & Developer
-      location: Remote
-      start_date: 2021-02-01
-      end_date: 2021-06-01
-      highlights:
-        - Developed a WhatsApp-based chat platform for low-literate rural communities for citizen journalism.
-        - Iteratively designed interaction flows balancing user needs, resource constraints, and fieldworkers' workflows.
-        - Full-stack development involving legacy server, website, content moderation interface, APIs, and database.
-        - Implemented custom features to submit, share, and filter audio-, video-, and image-based journalism posts.
-        - Successful adoption with 1000+ reports from users; continued usage at partner NGO.
+      - company: Microsoft Research
+        position: Lead Experience Designer & Developer
+        location: Remote
+        start_date: 2021-02-01
+        end_date: 2021-06-01
+        highlights:
+          - Developed a WhatsApp-based chat platform for low-literate rural communities for citizen journalism.
+          - Iteratively designed interaction flows balancing user needs, resource constraints, and fieldworkers' workflows.
+          - Full-stack development involving legacy server, website, content moderation interface, APIs, and database.
+          - Implemented custom features to submit, share, and filter audio-, video-, and image-based journalism posts.
+          - Successful adoption with 1000+ reports from users; continued usage at partner NGO.
 
-    - company: Indiana University Bloomington Indiana, USA
-      position: HCD Researcher
-      location: Remote 
-      start_date: 2020-08-01
-      end_date: 2021-01-01
-      highlights: 
-        - Surveyed 200+ participants online to investigate privacy aspects of smartphone notifications.
-        - Conducted mixed-method analysis (non-parametric statistical tests, thematic analysis, visualizations).
-        - Published paper and recommended design features in smartphone UIs to prevent privacy violations.
+      - company: Indiana University Bloomington Indiana, USA
+        position: HCD Researcher
+        location: Remote
+        start_date: 2020-08-01
+        end_date: 2021-01-01
+        highlights:
+          - Surveyed 200+ participants online to investigate privacy aspects of smartphone notifications.
+          - Conducted mixed-method analysis (non-parametric statistical tests, thematic analysis, visualizations).
+          - Published paper and recommended design features in smartphone UIs to prevent privacy violations.
 
-    - company: Oracle Cloud Infrastructure (OCI)
-      position: Software Developer
-      location: Bangalore, India
-      start_date: 2021-07-01
-      end_date: 2022-08-01
-      highlights: 
-        - Designed and deployed solutions for the flagship organization-wide logging and monitoring agent to enhance observability and security in cloud infrastructure.
-        - Developed open-source logging output plugin to support Debian OS.
+      - company: Oracle Cloud Infrastructure (OCI)
+        position: Software Developer
+        location: Bangalore, India
+        start_date: 2021-07-01
+        end_date: 2022-08-01
+        highlights:
+          - Designed and deployed solutions for the flagship organization-wide logging and monitoring agent to enhance observability and security in cloud infrastructure.
+          - Developed open-source logging output plugin to support Debian OS.
 
     Awards:
       - date: "2025-26"
-        summary: Schwartz Reisman Institute for Technology and Society (SRI) Graduate Fellow         
+        summary: Schwartz Reisman Institute for Technology and Society (SRI) Graduate Fellow
 
       - date: "2025"
         summary: Inclusive Excellence Research Grant, Faculty of Information
-        
+
       - date: "2024"
         summary: Sustainable Development Goals@UofT Student Award
 
       - date: "2023-2024"
         summary: School of Cities Graduate Research Fellowship
-        
 
       - date: "2024"
         summary: Munk School of Public Policy, Graduate Student Awards
@@ -222,25 +221,25 @@ cv:
     #     start_date: 2023-01-01
     #     end_date: 2023-12-01
 
-      # - name: A WhatsApp Chat Bot for Citizen Journalism in Rural India
-      #   summary: >
-      #     Developed a WhatsApp chatbot for CGNet Swara to enable low-literate rural communities in Chhattisgarh,
-      #     India to submit and browse citizen journalism stories via audio, image, and video.
-      #   highlights:
-      #     - Crowdsourced 1000+ reports from users; continued usage at partner NGO
-      #     - Published at ACM COMPASS '21
-      #   start_date: 2021-02-01
-      #   end_date: 2021-06-01
+    # - name: A WhatsApp Chat Bot for Citizen Journalism in Rural India
+    #   summary: >
+    #     Developed a WhatsApp chatbot for CGNet Swara to enable low-literate rural communities in Chhattisgarh,
+    #     India to submit and browse citizen journalism stories via audio, image, and video.
+    #   highlights:
+    #     - Crowdsourced 1000+ reports from users; continued usage at partner NGO
+    #     - Published at ACM COMPASS '21
+    #   start_date: 2021-02-01
+    #   end_date: 2021-06-01
 
-      # - name: Exploring Privacy Aspects of Smartphone Notifications
-      #   summary: >
-      #     Studied privacy risks of smartphone notifications through an HCI survey of 200+ participants,
-      #     with design recommendations for privacy-sensitive delivery.
-      #   highlights:
-      #     - Global Talent Attraction Program scholarship recipient
-      #     - Published at MobileHCI '21
-      #   start_date: 2020-08-01
-      #   end_date: 2021-10-01
+    # - name: Exploring Privacy Aspects of Smartphone Notifications
+    #   summary: >
+    #     Studied privacy risks of smartphone notifications through an HCI survey of 200+ participants,
+    #     with design recommendations for privacy-sensitive delivery.
+    #   highlights:
+    #     - Global Talent Attraction Program scholarship recipient
+    #     - Published at MobileHCI '21
+    #   start_date: 2020-08-01
+    #   end_date: 2021-10-01
 
     Teaching Assistant:
       # - bullet: "**Data Modeling and Database Design** — Spring 2025"
@@ -249,4 +248,3 @@ cv:
       - bullet: "**Introduction to Software Engineering** — Spring 2023"
       - bullet: "**Experimental Design for Data Science** — Spring 2023"
       - bullet: "**Programming for Data Science** — Fall 2022"
-

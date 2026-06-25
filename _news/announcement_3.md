@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending ACM FAaCT conference in Montreal! 
+Attending ACM FAaCT conference in Montreal!
