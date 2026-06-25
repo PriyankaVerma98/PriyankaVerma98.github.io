@@ -3,7 +3,7 @@ layout: page
 title: Exploring Privacy Aspects of Smartphone Notifications
 description: User privacy & HCI bachelor's thesis studying privacy risks of smartphone notifications through a survey of 206 participants.
 importance: 2
-category: research
+category: thesis
 related_publications: verma2021privacy
 ---
 

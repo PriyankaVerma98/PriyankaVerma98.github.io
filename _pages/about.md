@@ -8,11 +8,9 @@ profile:
   align: right
   image: priyanka_bw.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-    # <p>Doctoral Candidate</p>
-    # <p>Faculty of Information</p>
-    # <p>University of Toronto</p>
-    # <p>Toronto, Canada</p>
+  more_info: >
+    <p>University of Toronto</p>
+    <p>Toronto, Canada</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

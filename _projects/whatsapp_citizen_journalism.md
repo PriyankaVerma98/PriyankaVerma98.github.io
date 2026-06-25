@@ -2,8 +2,8 @@
 layout: page
 title: A WhatsApp Chat Bot for Citizen Journalism in Rural India
 description: System programming & HCI master's thesis enabling citizen journalism over WhatsApp for rural communities in Chhattisgarh, India.
-importance: 1
-category: thesis
+importance: 2
+category: industry
 related_publications: verma2021whatsapp
 ---
 
